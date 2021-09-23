@@ -4,6 +4,6 @@
 
 ex
 
-![](https://raw.githubusercontent/DuongDiesel/imageHub/main/CNN/calParameter.png)
+"  ![](https://raw.githubusercontent/DuongDiesel/imageHub/main/CNN/ten file )  "
 
 
